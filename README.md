@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexeversmeyer" target="blank"><img src="https://img.shields.io/twitter/follow/alexeversmeyer?logo=twitter&style=for-the-badge" alt="alexeversmeyer" /></a> </p>
 
-- 🔭 I’m currently working on **#100DaysofCode**
+- 🔭 I’m currently working on **Angela Yu's #100DaysofCode Python Bootcamp on Udemy**
 
 - 🌱 I’m currently learning **Python, Network+, AWS**
 
