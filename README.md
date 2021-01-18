@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Python, Network+, AWS**
 
-- 📄 Learn about my experiences: [resume.alexeversmeyer.com](resume.alexeversmeyer.com)
+- 📄 Learn about my experiences: [resume.alexeversmeyer.com](resume.alexeversmeyer.com) (work in progress!)
 
 - ⚡ Fun fact: **I enjoy 3D rendering and 3D printing**
 
