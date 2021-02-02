@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **Angela Yu's #100DaysofCode Python Bootcamp on Udemy**
 
-- 🌱 I’m currently learning: **Python, Network+, AWS**
+- 🌱 I’m currently learning: **Python, AWS Developer Associate certification**
 
 - 📄 Learn about my experiences: [resume.alexeversmeyer.com](resume.alexeversmeyer.com) (work in progress!)
 
