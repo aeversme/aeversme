@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Python, AWS Developer Associate certification**
 
-- 📄 Learn about my experiences: [resume.alexeversmeyer.com](resume.alexeversmeyer.com) (work in progress!)
+- 📄 Learn about my experiences: <a href="https://resume.alexeversmeyer.com">My Resume</a> (work in progress!)
 
 - ⚡ Fun fact: **I enjoy 3D rendering and 3D printing**
 
