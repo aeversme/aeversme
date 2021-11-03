@@ -6,18 +6,18 @@
 <em>Live projects include:</em>
 
 Event-Driven Python ETL on AWS<br> 
-personal portfolio website<br>
+personal portfolio webapp<br>
 Cloud Resume Challenge
 
 <em>Current learning objectives:</em>
 
 Docker with Swarm & Kubernetes<br>
-Algorithms & data structures<br>
+algorithms & data structures<br>
 Ansible & Jenkins with Terraform<br>
 
 <em>For fun, I enjoy:</em>
 
-Flying FPV quadcopters<br>
+flying FPV quadcopters<br>
 3D rendering (see header image!)
 
 <img src="https://komarev.com/ghpvc/?username=aeversme&label=Profile%20views&color=0e75b6&style=flat">
