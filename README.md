@@ -5,15 +5,14 @@
 
 <em>Live projects include:</em>
 
-Event-Driven Python ETL on AWS<br> 
-personal portfolio webapp<br>
+Skyboy app<br>
+Event-Driven Python ETL on AWS<br>
 Cloud Resume Challenge
 
 <em>Current learning objectives:</em>
 
-Docker with Swarm & Kubernetes<br>
-algorithms & data structures<br>
-Ansible & Jenkins with Terraform<br>
+Algorithms & data structures<br>
+AWS SysOps Administrator certification
 
 <em>For fun, I enjoy:</em>
 
